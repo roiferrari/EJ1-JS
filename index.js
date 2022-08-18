@@ -91,7 +91,7 @@ pizzas.forEach((e) => console.log(`la pizza ${e.nombre} tiene un precio de $${e.
 
 
 
-//d) Todos los ingredientes de cada pizza 
+//d) Todos los ingredientes de cada pizza
 
 
 
